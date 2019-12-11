@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027289893159",
+    "firebase_url": "https://monster-defender.firebaseio.com",
+    "project_id": "monster-defender",
+    "storage_bucket": "monster-defender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027289893159:android:02e3b7645952f1329a0102",
+        "android_client_info": {
+          "package_name": "com.m4gstudios.defender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027289893159-a6iic4eabtvm7elcge6p4j6gji5fupvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJr4AhhIeICk1NIuNE8rX5n-mxHMBS_JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027289893159-a6iic4eabtvm7elcge6p4j6gji5fupvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
